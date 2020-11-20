@@ -5,9 +5,6 @@ import router from './router'
 Vue.config.productionTip = false
 console.log(1)
 console.log("SD卡就是")
-
-
-
 console.log(123)
 new Vue({
   router,
